@@ -90,4 +90,7 @@ footer {
   header.carousel .carousel {
     height: 70%;
   }
+  body{
+    background-image: url(http://www.stateofplaygames.com/wp-content/uploads/2011/12/background_generic.jpg);
+  }
 }
