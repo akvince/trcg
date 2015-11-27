@@ -11,6 +11,7 @@ html, body {
   height: 100%;
   background-image: url(http://orig03.deviantart.net/35f8/f/2014/036/a/c/background_gaming__website__by_fnkk-d758mbq.png);
   background-attachment: fixed;
+  background-repeat: no-repeat;
   background-size: 100%;
   color: #E80C0C;
 }
