@@ -82,6 +82,9 @@ footer {
   .customer-img, .img-related {
     margin-bottom: 30px;
   }
+  body{
+    background-color: black;
+  }
 }
 @media(max-width:767px) {
   .img-portfolio {
