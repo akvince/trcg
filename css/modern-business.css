@@ -83,7 +83,7 @@ footer {
     margin-bottom: 30px;
   }
   body {
-    background-image:linear-gradient(#65565C, #65565C);
+    background-image:linear-gradient(#D1CAC8, #65565C);
   }
 }
 @media(max-width:767px) {
