@@ -42,9 +42,10 @@ header.carousel .fill {
 }
 .container {
   background-color: #212121;
-  padding-bottom: 50px;
 }
-
+#corps{
+    padding-bottom: 50px;
+}
 /* 404 Page Styles */
 
 .error-404 {
