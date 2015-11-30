@@ -9,7 +9,6 @@
 
 html, body {
   height: 100%;
-
   color: #1552A3;
 }
 body {
@@ -44,6 +43,7 @@ header.carousel .fill {
 .container {
   background-color: #212121;
 }
+
 /* 404 Page Styles */
 
 .error-404 {
@@ -73,7 +73,6 @@ footer {
   margin-bottom: 10px 0;
   text-align: right;
   color: white;
-
 }
 
 /* Responsive Styles */
@@ -82,7 +81,7 @@ footer {
   .customer-img, .img-related {
     margin-bottom: 30px;
   }
-  body{
+  body {
     background-color: black;
     background-image: none;
   }
