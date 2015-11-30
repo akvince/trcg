@@ -28,7 +28,7 @@ body {
 
 /* Home Page Carousel */
 header{
-  border: 3px solid #212121;
+  border-bottom: 4px solid #212121;
 }
 header.carousel {
   height: 50%;
