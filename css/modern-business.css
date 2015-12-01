@@ -26,20 +26,19 @@ body {
   opacity: 0.8;
 }
 
-/* Home Page Carousel */
+/*  Carousel */
 
-aside.carousel {
-  height: 50%;
+#myCarousel{
+  height: 350px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
-aside.carousel .item, aside.carousel .item.active, aside.carousel .carousel-inner {
-  height: 50%;
+
+.carousel-inner{
+  height: 350px;
 }
-aside.carousel .fill {
-  width: 100%;
-  height: 100%;
-  background-position: center;
-  background-size: cover;
-}
+
 .container {
   background-color: #212121;
 }
@@ -81,9 +80,10 @@ article{
 /* Footer Styles */
 
 footer {
-  margin-bottom: 10px 0;
-  text-align: right;
-  color: white;
+  text-align: center;
+  height: 30px;
+  color: #1552A3;
+  font-weight: bold;
 }
 
 /* Responsive Styles */
@@ -100,7 +100,7 @@ footer {
   .img-portfolio {
     margin-bottom: 15px;
   }
-  aside.carousel .carousel {
-    height: 70%;
+  h1{
+    font-size: 1.7em;
   }
 }
