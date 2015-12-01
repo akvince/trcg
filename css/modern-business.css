@@ -80,10 +80,10 @@ article{
 /* Footer Styles */
 
 footer {
-  background-image: url(http://www.reasonforgaming.com/wp-content/uploads/2013/10/Gamer4Life.png);
-  text-align: right;
-  height: 100px;
-  color: white;
+  text-align: center;
+  height: 50px;
+  color: #1552A3;
+  font-weight: bold;
 }
 
 /* Responsive Styles */
