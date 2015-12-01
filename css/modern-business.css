@@ -46,7 +46,15 @@ aside.carousel .fill {
 article{
     padding-bottom: 50px;
 }
-
+#contactForm{
+  padding-left: 5%
+}
+.page-header{
+  padding-left: 3%;
+}
+.titleform{
+  padding-left: 5%;
+}
 /* 404 Page Styles */
 
 .error-404 {
