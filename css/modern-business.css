@@ -99,7 +99,10 @@ footer {
   .img-portfolio {
     margin-bottom: 15px;
   }
-  aside.carousel .carousel {
+#myCarousel {
     height: 70%;
+  }
+  h1{
+    font-size: 80%;
   }
 }
