@@ -145,12 +145,19 @@
     <!-- /.row -->
 
     <!-- Project One -->
-    <div class="row">
-      <div class="col-md-7">
-        <iframe src="http://player.twitch.tv/?channel=trcgtv" frameborder="0" scrolling="no" height="378" width="620"></iframe><a href="http://www.twitch.tv/trcgtv?tt_medium=live_embed&tt_content=text_link" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px;text-decoration:underline;">Watch live video from trcgtv on www.twitch.tv</a></div>
-      <div class="col-md-5">
-        <iframe src="http://www.twitch.tv/trcgtv/chat?popout=" frameborder="0" scrolling="no" height="500" width="350"></iframe>
-      </div>
+    <div class="countainer">
+        <div class="row">
+            <div class="col-md-7">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="http://player.twitch.tv/?channel=trcgtv" frameborder="0" scrolling="no" height="378" width="620"></iframe><a href="http://www.twitch.tv/trcgtv?tt_medium=live_embed&tt_content=text_link" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px;text-decoration:underline;">Watch live video from trcgtv on www.twitch.tv</a>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="embed-responsive embed-responsive-4by3 hidden-xs hidden-sm">
+                    <iframe class="embed-responsive-item" src="http://www.twitch.tv/trcgtv/chat?popout=" frameborder="0" scrolling="no"></iframe>
+                </div>
+            </div>
+        </div>
     </div>
     <!-- /.row -->
 
