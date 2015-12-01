@@ -54,6 +54,11 @@ article{
 .titleform{
   padding-left: 5%;
 }
+/* staff */
+#staff img{
+  height: 300px;
+  width: 300px;
+}
 /* 404 Page Styles */
 
 .error-404 {
